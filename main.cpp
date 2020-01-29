@@ -9,11 +9,10 @@ int main(){
   while(i>j){
     j=k+l;
     if(j>i)
-    break;
+     break;
     cout<<j<<endl;
     k=l;
     l=j;
   }
 return 0;
 }
-
